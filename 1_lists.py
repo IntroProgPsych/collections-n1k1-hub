@@ -13,3 +13,7 @@
 # 
 # Write your code here:
 colors = ["red", "green", "blue", "yellow", "purple"]
+
+print(colors[0])
+print(colors[-1])
+print(colors[1:3])
